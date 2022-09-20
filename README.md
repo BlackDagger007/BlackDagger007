@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BlackDagger007
-- 👀 I’m interested in Flutter/Python/Fortnite/Music
-- 🌱 I’m currently learning HTML/CSS
+- 🎮 A programmer by day, an avid gamer by night
+- 👀 I’m interested in Python/Flutter/Dart/HTML/CSS
+- 🌱 I’m currently learning Nodejs/Expressjs
 - 💞️ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me >> @TheBlackDagger_  << on Twitter 
 

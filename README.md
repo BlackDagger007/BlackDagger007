@@ -19,10 +19,6 @@
 - 📫 How to reach me **mailwahab247@gmail.com**
 
 - ⚡ Fun fact: **Developer by day, avid gamer by night!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

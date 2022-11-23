@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mailwahab247@gmail.com**
 
-- ⚡ Fun fact: **Developer by day, avid gamer by night!**
+- ⚡ Fun fact: **What is iced tea? asked she, it is IT replied he**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

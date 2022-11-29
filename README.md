@@ -10,15 +10,13 @@
 
 - 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
 
-- 🌱 I’m currently learning **Angular & Django**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
 - 💬 Ask me about **flutter, firebase, nodejs**
 
 - 📫 How to reach me **mailwahab247@gmail.com**
-
-- ⚡ Fun fact: **What is iced tea? asked she, it is IT replied he**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
